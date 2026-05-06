@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ehsasi-feek-ghayr-my-feeling-for-you-is-different/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Ehsasi Feek Ghayr – My Feeling for You Is Different](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
